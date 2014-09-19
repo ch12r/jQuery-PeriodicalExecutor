@@ -3,7 +3,7 @@ jQuery-PeriodicalExecutor
 
 Dependencies: 
 
-* Class.js, By John Resig http://ejohn.org/ (licensed under MIT)
+* Class.js, By John Resig http://ejohn.org/ (licensed under MIT), see: http://ejohn.org/blog/simple-javascript-inheritance/
 * jQuery
 
 Usage:
